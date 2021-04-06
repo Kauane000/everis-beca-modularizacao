@@ -41,7 +41,7 @@ dependencies {
 
 
 
-    implementation files('libs/aore-debug.arr')
+    implementation files('libs/core-debug.aar')
 
     implementation project(path: ':core')
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
